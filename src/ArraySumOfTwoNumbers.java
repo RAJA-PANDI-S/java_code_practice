@@ -25,13 +25,10 @@ public class ArraySumOfTwoNumbers {
                     System.out.println("Sum of Index [" + v1 + "] and [" + v2 + "] is " + Value);
                     break;
                 }
-
             }
-
         }
         if (exist == 0) {
             System.out.println("Error give correct value");
         }
-
     }
 }

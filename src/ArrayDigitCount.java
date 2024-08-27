@@ -34,4 +34,14 @@ public class ArrayDigitCount {
     }
 }
 
+/*
+Output:
+Enter the Digit value:
+5
+Total 5 digit number given in an array is: 3
+
+Process finished with exit code 0
+ */
+
+
 

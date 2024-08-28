@@ -32,3 +32,13 @@ public class ArraySumOfTwoNumbers {
         }
     }
 }
+
+/*
+Output:
+Enter the sum value:
+10
+Sum of Index [2] and [3] is 10
+Sum of Index [4] and [5] is 10
+
+Process finished with exit code 0
+ */

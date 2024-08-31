@@ -6,7 +6,7 @@ public class SumUntilZero {
     public static void main(String[] args) {
         int temp1=0,temp2=0;
         Scanner sc = new Scanner(System.in);
-        for (int i = 0; i <= 10; i++) {
+        for (int i = 0; ; i++) {
             System.out.println("Enter Even Positive or Odd Negative Number: ");
             int value = sc.nextInt();
             if (value > 0 && value%2==0) {

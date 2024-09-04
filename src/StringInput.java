@@ -15,6 +15,22 @@ public class StringInput {
         System.out.println("Int: " + i);
     }
 }
+
+/*
+22
+34.445
+hello world
+String: hello world
+Double: 34.445
+Int: 22
+
+Process finished with exit code 0
+
+
+ */
+
+
+
 /*
 Explanation :
 

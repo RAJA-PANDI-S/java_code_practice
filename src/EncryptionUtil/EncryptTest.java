@@ -14,7 +14,6 @@ public class EncryptTest {
                 // Step 2: Encrypt the username and password
                 String encryptedUsername = EncryptDecryptCode.encrypt(originalUsername);
                 String encryptedPassword = EncryptDecryptCode.encrypt(originalPassword);
-
                 System.out.println("Encrypted Username: " + encryptedUsername);
                 System.out.println("Encrypted Password: " + encryptedPassword);
 

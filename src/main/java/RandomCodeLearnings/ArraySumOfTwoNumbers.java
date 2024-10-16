@@ -1,4 +1,4 @@
-/*
+package RandomCodeLearnings;/*
 Requirement :
 int[] num={2,5,7,4,3,1};
 Input: 11

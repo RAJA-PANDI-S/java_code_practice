@@ -1,3 +1,5 @@
+package RandomCodeLearnings;
+
 public class ExtractNumericValues {
     public static void main(String[] args) {
         String[] st = {"ab12fg", "23yuh","h567abc","qewr"};

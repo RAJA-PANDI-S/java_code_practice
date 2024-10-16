@@ -1,3 +1,5 @@
+package RandomCodeLearnings;
+
 import java.util.Scanner;
 
 public class ArrayDigitCount {

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package RandomCodeLearnings;
 
 public class StringReversal {
     public static void main(String[] args) {

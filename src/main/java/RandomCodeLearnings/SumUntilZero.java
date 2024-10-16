@@ -1,4 +1,4 @@
-// Sum of Even Positive and Odd Negative until user press 0
+package RandomCodeLearnings;// Sum of Even Positive and Odd Negative until user press 0
 
 import java.util.Scanner;
 

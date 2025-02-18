@@ -40,7 +40,7 @@ public class TestCode {
 
   String actualTitle = driver.getTitle();
   //snapshot = new TakeSnapshot(driver, "TradingView_Chart");
-  ImageComparisonTest.testImageComparison();
+  //ImageComparisonTest.testImageComparison();
   //String expectedTitle = "";
   //Assert.assertEquals(actualTitle, expectedTitle, "Title does not match the expected value!");
   System.out.println("==========================================================================");

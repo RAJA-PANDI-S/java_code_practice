@@ -13,7 +13,7 @@ public class ArrayDigitCount {
         int Value = sc.nextInt();
         //   System.out.println(num[2]);
         //  System.out.println(num.length);
-//Count the digits
+        //Count the digits
         for (int i = 0; i < num.length; i++) {
             int digits = 0;
             int temp = num[i];
